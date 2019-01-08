@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoClient</string>
+    <string name="user">Your NickName</string>
+    <string name="password">Your Password</string>
+    <string name="login">Login</string>
+    <string name="hello">Hello , User</string>
+</resources>
